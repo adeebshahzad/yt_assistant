@@ -1,0 +1,4 @@
+.venv2/
+.env
+.DS_Store/
+.git
